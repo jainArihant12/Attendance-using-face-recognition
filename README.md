@@ -8,8 +8,8 @@ A web-based system that marks student attendance using facial recognition, ensur
  <img src="static/Photo/Readme2.png" alt="Loading" width="600" height="350">
  
 ## Video
-Full explanation of project through video.
-Link: 
+TO Watch full project Working and its Responsive UI.
+Link: https://www.linkedin.com/posts/arihant-jain-278309260_facialrecognition-technology-innovation-activity-7178432865490100226-ki2k?utm_source=share&utm_medium=member_desktop
 
 
 ## Technologies Used
