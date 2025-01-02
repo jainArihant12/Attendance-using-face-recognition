@@ -1,7 +1,7 @@
 import cv2       
 import numpy as np
 
-face_classifier = cv2.CascadeClassifier('D:/program/vscode/opencv/flask/har_face.xml')
+face_classifier = cv2.CascadeClassifier('D:/program/vscode/Project/Attendence_using_face_recognition/har_face.xml')
 
 #to extract property of an image
 # img is capture in rgb but we will convert into Gray scale

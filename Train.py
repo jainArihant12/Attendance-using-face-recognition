@@ -12,7 +12,7 @@ from os.path import isfile,join
 
 
 def trainclassifier ():
-    data_path ='D:/program/vscode/opencv/flask/facephoto/'
+    data_path ='D:/program/vscode/Project/Attendence_using_face_recognition/facephoto/'
     path = [join(data_path ,file) for file in listdir(data_path)]
       
     faces = []
