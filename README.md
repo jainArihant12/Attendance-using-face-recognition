@@ -50,7 +50,7 @@ Link: https://www.linkedin.com/posts/arihant-jain-278309260_facialrecognition-te
    http://127.0.0.1:5000/
 
 ## Usage
-  
+  - **Step 0** : Register and Login
   - **Step 1** : Go to dashboard.
   - **Step 2** : Go to Face_recognition and collect dataset(image) of each student.
   - **Step 3** :From dashboard , Go to Train section to train the images.
